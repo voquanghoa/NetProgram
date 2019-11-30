@@ -14,7 +14,7 @@
 - Postman [here](https://www.getpostman.com/)
 
 
-## Documents and exercises
+## Documents
 
 - C# program:
     - [Tutorialsteacher](https://www.tutorialsteacher.com/csharp/csharp-tutorials) 
@@ -32,3 +32,5 @@
 - WebAPI
     - [Tutorialsteacher](https://www.tutorialsteacher.com/webapi/web-api-tutorials)
     - [Dotnettutorials](https://dotnettutorials.net/course/asp-net-web-api/)
+
+## Exercise [Here](Exercises.md)
