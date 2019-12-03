@@ -27,12 +27,13 @@
     - [Tutorialsteacher](https://www.tutorialsteacher.com/linq/linq-tutorials)
     - [Javatpoint](https://www.javatpoint.com/linq)
     - [Dotnettutorials](https://dotnettutorials.net/course/linq/)
+    - Exercise [Here](Linq.md)
 
 - EntityFramework (Code First)
     - [Entityframeworktutorial](https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx)
+    - Exercise : làm lại các bài tập ở phần Linq nhưng có sử dụng database với EntityFramework
 
 - WebAPI
     - [Tutorialsteacher](https://www.tutorialsteacher.com/webapi/web-api-tutorials)
     - [Dotnettutorials](https://dotnettutorials.net/course/asp-net-web-api/)
-
-## Exercise [Here](Exercises.md)
+    - Exercise [Here](webapi.md)
