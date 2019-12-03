@@ -20,6 +20,8 @@
     - [Tutorialsteacher](https://www.tutorialsteacher.com/csharp/csharp-tutorials) 
     - [Dotnettutorials](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
 
+    - Exercise [Here](Basic.md)
+
 - Linq:
 
     - [Tutorialsteacher](https://www.tutorialsteacher.com/linq/linq-tutorials)
