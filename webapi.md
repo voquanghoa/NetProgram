@@ -30,6 +30,7 @@ Giả định rằng mình cần triển khai một web/app bán sách online, t
 - Website
 - Birthday
 - Cover
+- List<Book>
 
 Lưu ý về cover:
 
