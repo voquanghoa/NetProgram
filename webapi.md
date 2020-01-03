@@ -1,8 +1,8 @@
 # Hoàn cảnh
 
-Giả định rằng mình cần triển khai một web/app bán sách online, thiết kế và implement một hệ thống API Restful với các bước như sau
+Giả định rằng mình cần triển khai một web/app bán sách online, thiết kế và implement một hệ thống API Restful với các giai đoạn như sau
 
-## Bước 1: Tạo basic các API CRUD dưới dạng public
+## Giai đoạn 1: Tạo basic các API CRUD dưới dạng public
 
 ### Book - Sách
 
@@ -37,7 +37,7 @@ Lưu ý về cover:
 - Ảnh cover phải được lưu dưới dạng <GUID>.<Extension>
 - Ảnh cover phải được limit size tối đa là 800*800 (Server tự giảm kích thước file ảnh trước khi lưu)
 
-## Bước 2: Tạo thông tin người dùng và phân quyền
+## Giai đoạn 2: Tạo thông tin người dùng và phân quyền
 
 ### User
 
