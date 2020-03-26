@@ -8,9 +8,7 @@
 
 4. Số fibonaci là dãy số bắt đầu từ 1 1 và sau đó, số tiếp theo bằng 2 số trước cộng lại. Tức là `1 1 2 3 5 8 ....`. Nhập vào số nguyên n, xuất ra danh sách những số fibonaci không lớn hơn n.
 
-5. Viết phương trình giải phương trình bậc 2: 
-
-    ![Phương trình bậc 2](https://latex.codecogs.com/gif.latex?ax^{2}&plus;bx&plus;c=0)
+5. Tìm những số nguyên n có m chữ số thỏa mãn điều kiện: tổng của các chữ số của n khi lũy thừa hệ số m thì đúng bằng n. Ví dụ n=153 là hợp lệ vì m=3, 1^3 + 5^3 + 3^3 = 153 (Giới hạn 2<=m<=5).
 
 6. Viết phương trình nhập vào n và in ra tổng của dãy số
     ![Dãy số](https://latex.codecogs.com/gif.latex?1*2&plus;2*3&plus;3*4&plus;...&plus;n(n&plus;1))
@@ -22,9 +20,28 @@
 
 9. Viết chương trình tính căn bậc 2 của một số thực không âm bất kỳ bằng phương pháp chia đôi.
 
-Với f(n) lúc đầu = a
+10. Viết chương trình tính căn bậc 3 của một số thực không âm bất kỳ bằng phương pháp chia đôi.
 
-10. Tìm những số nguyên n có m chữ số thỏa mãn điều kiện: tổng của các chữ số của n khi lũy thừa hệ số m thì đúng bằng n. Ví dụ n=153 là hợp lệ vì m=3, 1^3 + 5^3 + 3^3 = 153 (Giới hạn 2<=m<=5).
+11. Viết hàm số nhận một số nguyên n, return số nguyên m bằng cách đảo ngược thứ tự các số trong hệ nhị phân của n. (Chỉ dùng các phép tính toán trên bit và vòng lặp)
+
+12. Viết hàm nhận vào một số nguyên n, kiểm tra số nguyên n có phải là số đối xứng, ví dụ 121, 282, 88, 12321, 9
+
+13. Dãy số IPv4 là dãy số có dạng a.b.c.d trong đó 0<= a, b, c, d <= 255. Ví dụ 128.168.1.23. Trên 1 tờ giấy giấy có ghi một địa chỉ IP nhưng thiếu mất các dấu ., hãy tìm các dãy số IPv4 hợp lệ từ dãy số trên tờ giấy.
+
+14. Giá trị của n! tăng rất nhanh khi n tăng nhưng kết quả thường kết thúc bởi các chữ số 0. Ví dụ 10! = 3628800 là kết thúc bởi 2 số 0.
+
+Cho số nguyên n, tính số chữ số 0 ở cuối khi tính n!
+
+15. Cho số nguyên n, tính số chữ số của n!
+
+16. Viết chương trình kiểm tra nếu số nguyên n chỉ chia hết cho các số nguyên tố là 2, 3, 5
+
+17. Viết chương trình nhập vào số nguyên n, tìm số m sao cho cả 3 điều kiện sau đây đều thoả mãn
+- m >= n
+- m là số nguyên tố
+- m là số đối xứng
+
+
 
 ## II. Bài tập về mảng
 
