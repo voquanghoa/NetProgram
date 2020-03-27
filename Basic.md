@@ -93,3 +93,4 @@ Ví dụ mã barcode `8938505974194` ta có (8+3+5+5+7+1+4) + 3 * (9+8+0+9+4+9) 
 
 Viết chương trình kiểm tra tính hợp lệ của một barcode.
 
+10. Viết chương trình tách một "Họ Và Tên" thành "Họ Và", "Tên" theo tiếng Việt
