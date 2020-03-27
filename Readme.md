@@ -33,7 +33,7 @@
 
 - EntityFramework (Code First)
     - [Entityframeworktutorial](https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx)
-    - Exercise : làm lại các bài tập ở phần Linq nhưng có sử dụng database với EntityFramework
+    - Exercise : làm lại các bài tập ở phần Linq (1- 13) nhưng có sử dụng database với EntityFramework
 
 - WebAPI
     - [Tutorialsteacher](https://www.tutorialsteacher.com/webapi/web-api-tutorials)

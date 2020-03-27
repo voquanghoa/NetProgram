@@ -32,3 +32,6 @@ Tạo các model sau:
 13. Viết hàm kiểm tra xem lớp 10A có sinh viên nào đó sinh năm 2000 mà điểm >= 8 hay không (thay các giá trị bằng param)
 
 
+14. Viết chương trình sắp xếp một list gồm các "Họ Và Tên" theo thứ tự tăng dần theo tên (rồi đến họ) của tiếng Việt
+15. Viết chương trình khởi tạo ngẫu nhiêm một danh sách gồm n số có giá trị từ 1~n không lặp lại. (1 <= m < n)
+
