@@ -61,7 +61,7 @@ Cho số nguyên n, tính số chữ số 0 ở cuối khi tính n!
 
 8. Viết chương trình đếm xem có bao nhiêu số chia hết cho 3 nhưng không chia hết cho 5 trong 1 mảng 1 chiều
 
-9. Viết chương trình tạo ngẫu nhiên một mảng gồm n số nguyên có giá trị từ 1 - n mà có các giá trị theo thứ tự 
+9. Viết chương trình tạo ngẫu nhiên một mảng gồm n số nguyên có giá trị từ 1 - n mà các giá trị không bị trùng lặp
 
 10. Viết chương trình tính tổng các số chính phương từ mảng 1 chiều
 
