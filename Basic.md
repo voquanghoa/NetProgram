@@ -41,6 +41,19 @@ Cho số nguyên n, tính số chữ số 0 ở cuối khi tính n!
 - m là số nguyên tố
 - m là số đối xứng
 
+18. Cho một số nguyên n, số nguyên n có thể biến đổi thành tổng của bình phương các chữ số, việc biến đổi đó có thể được thực hiện sau nhiều lần và nếu quá trình đó kết thúc với n = 1 thì n lúc đầu là số hạnh phúc.
+
+Ví dụ với n = 19.
+
+Biến đổi lần 1: n = 1*1 + 9*9 = 82
+Biến đổi lần 2: n = 8*8 + 2*2 = 68
+Biến đổi lần 3: n = 6*6 + 8*8 = 100
+Biến đổi lần 4: n = 1* 1 + 0*0 + 0*0 = 1
+
+Ở đây kết thúc bằng số 1 (vì biến đổi tiếp thì nó cũng là 1 thôi), nên n=19 là số hạnh phúc.
+
+Viết chương trình kiểm tra 1 số có phải là số hạnh phúc hay không.
+
 
 
 ## II. Bài tập về mảng
