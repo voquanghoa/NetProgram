@@ -33,5 +33,4 @@ Tạo các model sau:
 
 
 14. Viết chương trình sắp xếp một list gồm các "Họ Và Tên" theo thứ tự tăng dần theo tên (rồi đến họ) của tiếng Việt
-15. Viết chương trình khởi tạo ngẫu nhiêm một danh sách gồm n số có giá trị từ 1~n không lặp lại. (1 <= m < n)
 
