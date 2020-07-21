@@ -70,7 +70,7 @@ Viết chương trình kiểm tra 1 số có phải là số hạnh phúc hay kh
 
 6. Viết chương trình sử dụng phương pháp tìm kiếm nhị phân để tìm kiếm một số nguyên từ một mảng số nguyên đã sắp xếp (tăng dần hoặc giảm dần), trả về vị trí nếu tìm thấy hoặc -1 nếu không tìm thấy
 
-7. Viết chương trình chia một mảng số nguyên thành n mảng con có số lượng phần tử bằng nhau (Riêng mảng cuối cùng có thể có số phần tử ít hơn)
+7. Viết chương trình chia một mảng số nguyên thành các mảng con có số lượng phần tử bằng nhau và bằng n (Riêng mảng cuối cùng có thể có số phần tử ít hơn do đủ)
 
 8. Viết chương trình đếm xem có bao nhiêu số chia hết cho 3 nhưng không chia hết cho 5 trong 1 mảng 1 chiều
 
