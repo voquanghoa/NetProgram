@@ -74,7 +74,7 @@ Viết chương trình kiểm tra 1 số có phải là số hạnh phúc hay kh
 
 8. Viết chương trình đếm xem có bao nhiêu số chia hết cho 3 nhưng không chia hết cho 5 trong 1 mảng 1 chiều
 
-9. Viết chương trình tạo ngẫu nhiên một mảng gồm n số nguyên có giá trị từ 1 - n mà các giá trị không bị trùng lặp
+9. Viết chương trình tạo ngẫu nhiên một mảng gồm n số nguyên có giá trị từ 1 - m mà các giá trị không bị trùng lặp
 
 10. Viết chương trình tính tổng các số chính phương từ mảng 1 chiều
 
