@@ -95,7 +95,7 @@ Viết chương trình xử lý một chuổi ký tự (String)
 
 6. Nhận vào một chuổi ký tự chứa toàn các chữ cái (a-z, A-Z). Rút gọn chuỗi bằng cách ở những nơi chữ cái lặp lại, ta viết số lần lặp. Ví dụ `abcccceeeeeefd` sẽ viết thành `abc4e6fd`, `abbbbbbbbbbbbbc` viết là `ab13c`
 
-7. Nhận vào chuổi đã được viết gọn ở câu 9, dịch nó thành chuỗi lúc đầu.
+7. Nhận vào chuổi đã được viết gọn ở câu 6, dịch nó thành chuỗi lúc đầu.
 
 8. Nhận tham một string, xóa các ký tự giống nhau liên tiếp và giữ lại một. 
     Ví dụ `abbbbbbccccd eeffffddbc` thành --> `abcd efdbc`
